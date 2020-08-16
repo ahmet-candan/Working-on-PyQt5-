@@ -15,5 +15,8 @@ QLineEdit adlı dosyada ise dinamik bir yazı alanı oluşturularak kullanıcıd
 Checkbox adlı dosyada PyQt5 arayüzü üzerinden bir checkbox oluşturulmuştur. Oluşturulan checkbox'a tıklanıp tıklanmadığını test eden bir program yazılmıştır.
 
 
+Radio_button adlı dosyada PyQt5 arayüzü üzerinden radio buttonlar oluşturulmuştur. 3 farklı seçenek üretilip kullanıcının bir tanesini seçmesi sağlanmıştır.
+
+
 
 
