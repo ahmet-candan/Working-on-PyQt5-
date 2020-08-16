@@ -12,7 +12,7 @@ Button_function isimli dosyada, oluşturduğumuz butonlara amaçları doğrultus
 QLineEdit adlı dosyada ise dinamik bir yazı alanı oluşturularak kullanıcıdan girdi alma işlemi gerçekleştirilmiştir.
 
 
-Checkbox adlı dosyada PyQt5 arayüzü üzerinden bir checkbox oluşturulmuştur. Oluşturualn checkbox'a tıklanıp tıklanmadığını test eden bir program yazılmıştır.
+Checkbox adlı dosyada PyQt5 arayüzü üzerinden bir checkbox oluşturulmuştur. Oluşturulan checkbox'a tıklanıp tıklanmadığını test eden bir program yazılmıştır.
 
 
 
