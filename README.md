@@ -18,5 +18,8 @@
 *Radio_button adlı dosyada PyQt5 arayüzü üzerinden radio buttonlar oluşturulmuştur. 3 farklı seçenek üretilip kullanıcının bir tanesini seçmesi sağlanmıştır.
 
 
+*QTextedit adlı dosyada büyük bir yazı alanı oluşturularak kullanıcıdan uzun girdiler alınması sağlanmıştır.
+
+
 
 
