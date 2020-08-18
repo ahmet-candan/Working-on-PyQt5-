@@ -21,5 +21,8 @@
 *QTextedit adlı dosyada büyük bir yazı alanı oluşturularak kullanıcıdan uzun girdiler alınması sağlanmıştır.
 
 
+* Menubar adlı dosyada, PyQt5 ile bir pencere oluşturulmuştur ardından bu pencereye bir menü barı yerleştirilmiştir. Menü barına 2 adet opsiyon yerleştirlimiştir (dosya ve düzenle) Bu opsiyonlar da kendi içinde alt dallara ayrılarak farklı işlemler gerçekleştirmektedir.
+
+
 
 
